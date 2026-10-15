@@ -86,7 +86,7 @@ game-recommender/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-wRawaan/game-recommendation-model.git
+git clone https://github.com/wRawaan/game-recommendation-model.git
 cd game-recommendation-model
 ```
 
