@@ -1,0 +1,7 @@
+# Ignore large datasets
+*.csv
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
